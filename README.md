@@ -1,7 +1,5 @@
-- 👋 Mustafa Alahmid
--  I’m interested in AI and Bitcoin
--  I’m currently working on Image processing, computer vision and Bitcoin
--  I’m looking to collaborate on all above ^ 
+- interested in AI and Bitcoin
+- currently working on Image processing, computer vision and Bitcoin
 - 📫 reach me on [ My LinkidIn Profile ](https://www.linkedin.com/in/mustafa-alahmid-a01693158/)
 
 <!---
